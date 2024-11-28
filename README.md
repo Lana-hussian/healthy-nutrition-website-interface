@@ -12,7 +12,6 @@ This project provides the design for a website that delivers personalized nutrit
 ## Design Tools
 - **Figma**: For wireframes and prototypes.
 - **HTML/CSS**: For the website layout.
-- **Bootstrap**: For responsive design.
 
 ## How to Operate
 1. Clone the repository:
