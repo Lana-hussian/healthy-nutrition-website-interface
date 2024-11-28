@@ -16,6 +16,6 @@ This project provides the design for a website that delivers personalized nutrit
 
 ## How to Operate
 1. Clone the repository:
-   git clone https://github.com/your-username/healthy-nutrition-website-interface.git
+   git clone [https://github.com/Lana-hussian/healthy-nutrition-website-interface.git](https://github.com/Lana-hussian/healthy-nutrition-website-interface.git)
 2. Open the index.html file in any browser to view the homepage and interact with the design.
-3. Navigate through the interface (no backend functionality, all pages are static designs).# healthy-nutrition-website-interface
+
