@@ -11,7 +11,7 @@ This project provides the design for a website that delivers personalized nutrit
 
 ## Design Tools
 - **Figma**: For wireframes and prototypes.
-  - View the design in Figma: [Figma Design Link]([https://www.figma.com/file/your-figma-link-here](https://www.figma.com/proto/vkkttRZGJ0KBf6PTm7Ohwc/Nutrition-Project?node-id=76-2183&t=dZd8oreFyzKxzv6i-1))
+  - View the design in Figma: [Figma Design Link]((https://www.figma.com/proto/vkkttRZGJ0KBf6PTm7Ohwc/Nutrition-Project?node-id=76-2183&t=dZd8oreFyzKxzv6i-1))
 
 - **HTML/CSS**: For the website layout.
 
