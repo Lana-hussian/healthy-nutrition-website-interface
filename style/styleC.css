@@ -1,0 +1,85 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  } */
+/*   
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f9f9f9;
+  } */
+  
+  .container {
+    text-align: center;
+    width: 300px;
+    padding: 20%;
+    position: absolute
+  }
+  
+  h1 {
+    color: #d0342c;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+  
+  .goal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #effbf4;
+    border: 1px solid #b5e2c3;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    transition: transform 0.2s;
+  }
+  
+  .goal:hover {
+    transform: scale(1.02);
+  }
+  
+  .icon {
+    font-size: 20px;
+  }
+  
+  .goal-text {
+    flex-grow: 1;
+    text-align: left;
+    font-size: 16px;
+    margin-left: 10px;
+    color: #333;
+  }
+  
+  .members {
+    color: #888;
+    font-size: 14px;
+  }
+  
+  .next-button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #d0342c;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.2s;
+  }
+  
+  .next-button:hover {
+    background-color: #b02b24;
+  }
+  
